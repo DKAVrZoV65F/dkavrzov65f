@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&color=F7F7F7FF&background=00000055&lines=Hi+There!+👋;+I'm+DKAVrZoV65F!; I'm+a+Novice+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&color=F7F7F7FF&background=00000055&lines=Hi+There!+👋;I'm+DKAVrZoV65F!;I'm+a+Novice+Developer;" />
 </h1>
 
 ### Programming Languages:
@@ -45,9 +45,7 @@
         <img    src="https://github-readme-streak-stats.herokuapp.com/?user=DKAVrZoV65F&" alt="DKAVrZoV65F" />
     </p>
 </div>
-
-![snake gif](https://github.com/DKAVrZoV65F/DKAVrZoV65F/blob/output/github-contribution-grid-snake.gif)
-
+            
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&color=F7F7F7FF&background=00000055&lines=Thanks+for+visiting!;" />
 </h1>
