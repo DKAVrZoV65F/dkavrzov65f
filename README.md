@@ -1,51 +1,67 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&color=F7F7F7FF&background=00000055&lines=Hi+There!+👋;I'm+DKAVrZoV65F!;I'm+a+Novice+Developer;" />
-</h1>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+</br>
 
-### Programming Languages:
-![.net](https://img.shields.io/badge/framework-090909?logo=dotnet&logoColor=E5D3FF&style=for-the-badge)
-![java](https://img.shields.io/badge/java-090909?logo=java&logoColor=white&style=for-the-badge)
-![kotlin](https://img.shields.io/badge/kotlin-090909?logo=kotlin&logoColor=3f00ff&style=for-the-badge)
+# Hi there 👋 I'm Sergey Krainov (or @DKAVrZoV65F)
 
-### ML:
-![ML.NET](https://img.shields.io/badge/ML.NET-090909?logo=dotnet&logoColor=E5D3FF&style=for-the-badge)
+💻 Software Engineer with a strong foundation in programming and system development. Skilled in designing, building, and deploying scalable applications.
 
-### Database:
-![sql](https://img.shields.io/badge/sql-090909?logo=mysql&logoColor=00648B&style=for-the-badge)
+🎓 Education:
+	•	Pursuing a Master’s Degree in Information Systems (graduation: 2026).
 
-### Devops:
-![bash](https://img.shields.io/badge/bash-090909?logo=gnubash&logoColor=white&style=for-the-badge)
-![docker](https://img.shields.io/badge/docker-090909?logo=docker&logoColor=00c0ff&style=for-the-badge)
-
-### Backend as a Service(BaaS):
-![firebase](https://img.shields.io/badge/firebase-090909?logo=firebase&logoColor=ffc000&style=for-the-badge)
-
-### Other:
-![git](https://img.shields.io/badge/git-090909?logo=git&logoColor=ff4001&style=for-the-badge)
-![kali linux](https://img.shields.io/badge/kali%20linux-090909?logo=kali-linux&logoColor=white&style=for-the-badge)
-
-### Socials:
-[![telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/P5V0OnQNS9CiTxt0QUABViAkSK8YAYV9)
-[![mozilla](https://img.shields.io/badge/mozilla-090909?style=for-the-badge&logo=mozilla&logoColor=7f00ff)](mailto:gw9ckwfsp@mozmail.com)
-[![Micorosft learns](https://img.shields.io/badge/Microsoft_Learn-090909?logo=microsoft&logoColor=0078D7&style=for-the-badge)](https://learn.microsoft.com/ru-ru/users/1010-3414)
+🌟 Technical Skills:
+	•	Languages: Java, C#, Kotlin
+	•	Databases: SQL, Redis
+	•	Tools: Docker, Kubernetes, Kafka, Postman, Git, GitHub
+	•	Operating Systems: Windows, MacOS, Linux
 
 <div align="center">
+<h2 align='center'><i>Languages, Tools and Technologies 🚀 </i></h2>
+<table>
+	<tr>
+		<td><strong>Programming Languages</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=java,cs,kotlin&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Database Technologies</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,postgres,redis,rabbitmq,sqlite&theme=dark"></td>
+        microsoft sql
+	</tr>
+	<tr>
+		<td><strong>Frameworks</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=spring&theme=dark">
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Developer Tools</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,grafana,graphql,kafka,postman&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Operating Systems</strong></td>
+		<td>
+			<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+			<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+            <img src="https://img.shields.io/badge/MacOS-0078D6?style=for-the-badge&logo=macos&logoColor=white">
+		</td>
+	</tr>
+</table>
+</div>
+
+<summary><b>✉️ Socials</b></summary>
+<br>
+
+[![telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/P5V0OnQNS9CiTxt0QUABViAkSK8YAYV9)
+[![mozilla](https://img.shields.io/badge/mozilla-090909?style=for-the-badge&logo=mozilla&logoColor=7f00ff)](mailto:oi1g35kgc@mozmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/dkavrzov65f/)
+
+<summary><b>⚙️ GitHub Analytics</b></summary>
+<br>
+<div align="center">
     <p> 
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=DKAVrZoV65F" alt="DKAVrZoV65F" />
-        </a>
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DKAVrZoV65F&show_icons=true&locale=en&layout=compact" alt="DKAVrZoV65F" />
-    </p>
-    <p>
-        <imgsrc="https://github-readme-stats.vercel.app/api?username=DKAVrZoV65F&show_icons=true&locale=en" alt="DKAVrZoV65F" />
-    </p>
-    <p>
-        <img    src="https://github-readme-streak-stats.herokuapp.com/?user=DKAVrZoV65F&" alt="DKAVrZoV65F" />
+        <img src="https://github-profile-trophy.vercel.app/?username=DKAVrZoV65F&locale=en"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=DKAVrZoV65F&show_icons=true&locale=en"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKAVrZoV65F&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&locale=en"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DKAVrZoV65F&theme=github-compact&locale=en"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DKAVrZoV65F&show_icons=true&locale=en"/>
     </p>
 </div>
-            
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&color=F7F7F7FF&background=00000055&lines=Thanks+for+visiting!;" />
-</h1>
