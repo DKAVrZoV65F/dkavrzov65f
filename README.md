@@ -24,7 +24,6 @@
 	<tr>
 		<td><strong>Database Technologies</strong></td>
 		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,postgres,redis,rabbitmq,sqlite&theme=dark"></td>
-        microsoft sql
 	</tr>
 	<tr>
 		<td><strong>Frameworks</strong></td>
@@ -41,7 +40,7 @@
 		<td>
 			<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 			<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-            <img src="https://img.shields.io/badge/MacOS-0078D6?style=for-the-badge&logo=macos&logoColor=white">
+            		<img src="https://img.shields.io/badge/MacOS-808080?style=for-the-badge&logo=macos&logoColor=white">
 		</td>
 	</tr>
 </table>
@@ -50,7 +49,7 @@
 <summary><b>✉️ Socials</b></summary>
 <br>
 
-[![telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/P5V0OnQNS9CiTxt0QUABViAkSK8YAYV9)
+[![telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sergey_krainov)
 [![mozilla](https://img.shields.io/badge/mozilla-090909?style=for-the-badge&logo=mozilla&logoColor=7f00ff)](mailto:oi1g35kgc@mozmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/dkavrzov65f/)
 
